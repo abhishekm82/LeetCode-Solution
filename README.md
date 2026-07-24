@@ -37,4 +37,8 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/abhishekm82/LeetCode/tree/master/0191-number-of-1-bits) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/abhishekm82/LeetCode/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
