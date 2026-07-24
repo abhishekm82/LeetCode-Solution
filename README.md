@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhishekm82/LeetCode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/abhishekm82/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/abhishekm82/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Hash Table
 |  |
@@ -40,5 +41,10 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/abhishekm82/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/abhishekm82/LeetCode/tree/master/0058-length-of-last-word) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/abhishekm82/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
