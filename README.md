@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhishekm82/LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/abhishekm82/LeetCode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/abhishekm82/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0169-majority-element](https://github.com/abhishekm82/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/abhishekm82/LeetCode/tree/master/0229-majority-element-ii) |
@@ -56,6 +57,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/abhishekm82/LeetCode/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/abhishekm82/LeetCode/tree/master/0125-valid-palindrome) |
 ## Sorting
 |  |
@@ -67,4 +69,8 @@
 | ------- |
 | [0169-majority-element](https://github.com/abhishekm82/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/abhishekm82/LeetCode/tree/master/0229-majority-element-ii) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/abhishekm82/LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
