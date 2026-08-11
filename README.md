@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/abhishekm82/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/abhishekm82/LeetCode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/abhishekm82/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/abhishekm82/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0169-majority-element](https://github.com/abhishekm82/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/abhishekm82/LeetCode/tree/master/0229-majority-element-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/abhishekm82/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -59,6 +60,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/abhishekm82/LeetCode/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/abhishekm82/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/abhishekm82/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/abhishekm82/LeetCode/tree/master/0344-reverse-string) |
 ## Sorting
