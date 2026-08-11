@@ -9,6 +9,7 @@
 | [0014-longest-common-prefix](https://github.com/abhishekm82/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhishekm82/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/abhishekm82/LeetCode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/abhishekm82/LeetCode/tree/master/0035-search-insert-position) |
 | [0169-majority-element](https://github.com/abhishekm82/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/abhishekm82/LeetCode/tree/master/0229-majority-element-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/abhishekm82/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -28,6 +29,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/abhishekm82/LeetCode/tree/master/0035-search-insert-position) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/abhishekm82/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Recursion
 |  |
