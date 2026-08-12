@@ -10,6 +10,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhishekm82/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/abhishekm82/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/abhishekm82/LeetCode/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/abhishekm82/LeetCode/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/abhishekm82/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/abhishekm82/LeetCode/tree/master/0229-majority-element-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/abhishekm82/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -23,6 +24,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/abhishekm82/LeetCode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/abhishekm82/LeetCode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/abhishekm82/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/abhishekm82/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/abhishekm82/LeetCode/tree/master/0342-power-of-four) |
