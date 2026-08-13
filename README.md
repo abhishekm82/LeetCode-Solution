@@ -12,6 +12,7 @@
 | [0035-search-insert-position](https://github.com/abhishekm82/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/abhishekm82/LeetCode/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/abhishekm82/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/abhishekm82/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/abhishekm82/LeetCode/tree/master/0229-majority-element-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/abhishekm82/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Hash Table
@@ -19,6 +20,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/abhishekm82/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/abhishekm82/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/abhishekm82/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/abhishekm82/LeetCode/tree/master/0229-majority-element-ii) |
 ## Math
 |  |
@@ -73,6 +75,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/abhishekm82/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/abhishekm82/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/abhishekm82/LeetCode/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |
