@@ -39,6 +39,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/abhishekm82/LeetCode/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/abhishekm82/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/abhishekm82/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/abhishekm82/LeetCode/tree/master/0342-power-of-four) |
 ## Bit Manipulation
@@ -70,6 +71,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhishekm82/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/abhishekm82/LeetCode/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/abhishekm82/LeetCode/tree/master/0125-valid-palindrome) |
+| [0234-palindrome-linked-list](https://github.com/abhishekm82/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/abhishekm82/LeetCode/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
@@ -86,4 +88,12 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/abhishekm82/LeetCode/tree/master/0011-container-with-most-water) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/abhishekm82/LeetCode/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/abhishekm82/LeetCode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
