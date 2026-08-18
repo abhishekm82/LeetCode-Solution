@@ -17,6 +17,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/abhishekm82/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0977-squares-of-a-sorted-array](https://github.com/abhishekm82/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/abhishekm82/LeetCode/tree/master/1051-height-checker) |
+| [1480-running-sum-of-1d-array](https://github.com/abhishekm82/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -109,4 +110,8 @@
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/abhishekm82/LeetCode/tree/master/1051-height-checker) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/abhishekm82/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
