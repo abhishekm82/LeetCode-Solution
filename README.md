@@ -30,6 +30,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/abhishekm82/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/abhishekm82/LeetCode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/abhishekm82/LeetCode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/abhishekm82/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/abhishekm82/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/abhishekm82/LeetCode/tree/master/0342-power-of-four) |
@@ -114,4 +115,12 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/abhishekm82/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/abhishekm82/LeetCode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/abhishekm82/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
