@@ -34,6 +34,7 @@
 | [0231-power-of-two](https://github.com/abhishekm82/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/abhishekm82/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/abhishekm82/LeetCode/tree/master/0342-power-of-four) |
+| [1137-n-th-tribonacci-number](https://github.com/abhishekm82/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -119,8 +120,10 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/abhishekm82/LeetCode/tree/master/0070-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/abhishekm82/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/abhishekm82/LeetCode/tree/master/0070-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/abhishekm82/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
