@@ -67,6 +67,7 @@
 | [0058-length-of-last-word](https://github.com/abhishekm82/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/abhishekm82/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/abhishekm82/LeetCode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/abhishekm82/LeetCode/tree/master/0392-is-subsequence) |
 ## Trie
 |  |
 | ------- |
@@ -81,6 +82,7 @@
 | [0234-palindrome-linked-list](https://github.com/abhishekm82/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/abhishekm82/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/abhishekm82/LeetCode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/abhishekm82/LeetCode/tree/master/0392-is-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/abhishekm82/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -123,6 +125,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/abhishekm82/LeetCode/tree/master/0070-climbing-stairs) |
+| [0392-is-subsequence](https://github.com/abhishekm82/LeetCode/tree/master/0392-is-subsequence) |
 | [1137-n-th-tribonacci-number](https://github.com/abhishekm82/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
