@@ -2,7 +2,7 @@ class Solution {
     public boolean isPalindrome(int x) {
         if(x < 0){
             return false;
-        })
+        }
         int x_cpy = x;
         int sum = 0;
         while(x_cpy != 0){
